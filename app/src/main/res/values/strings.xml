@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BUBT</string>
+    <string name="Unilogo">University Logo</string>
+    <string name="uni_name">Bangladesh University of Business and Technology\nBUBT</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="title_activity_student">StudentActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
